@@ -1,7 +1,7 @@
 [package]
 name = "kenney-simple-space"
 authors = ["Matt Pruitt <matt@guitsaru.com>"]
-version = "0.1.0"
+version = "1.0.0"
 homepage = "https://kenney.nl/assets/simple-space"
 keywords = ["assets", "2D", "space"]
 
