@@ -1,0 +1,68 @@
+[package]
+name = "kenney-simple-space"
+authors = ["Matt Pruitt <matt@guitsaru.com>"]
+version = "0.1.0"
+homepage = "https://kenney.nl/assets/simple-space"
+keywords = ["assets", "2D", "space"]
+
+# Optional:
+# documentation = "https://example.com"
+# repository = "http://github.com/example/example"
+
+# Which files do you want to be automatically required from your package.
+# requires = ["lib/library.rb"]
+
+
+[package.installs]
+"sprites/effect_purple.png" = "sprites/effect_purple.png"
+"sprites/effect_yellow.png" = "sprites/effect_yellow.png"
+"sprites/enemy_A.png" = "sprites/enemy_A.png"
+"sprites/enemy_B.png" = "sprites/enemy_B.png"
+"sprites/enemy_C.png" = "sprites/enemy_C.png"
+"sprites/enemy_D.png" = "sprites/enemy_D.png"
+"sprites/enemy_E.png" = "sprites/enemy_E.png"
+"sprites/icon_crossLarge.png" = "sprites/icon_cross_large.png"
+"sprites/icon_crossSmall.png" = "sprites/icon_cross_small.png"
+"sprites/icon_exclamationLarge.png" = "sprites/icon_exclamation_large.png"
+"sprites/icon_exclamationSmall.png" = "sprites/icon_exclamation_small.png"
+"sprites/icon_plusLarge.png" = "sprites/icon_plus_large.png"
+"sprites/icon_plusSmall.png" = "sprites/icon_plus_small.png"
+"sprites/meteor_detailedLarge.png" = "sprites/meteor_detailed_large.png"
+"sprites/meteor_detailedSmall.png" = "sprites/meteor_detailed_small.png"
+"sprites/meteor_large.png" = "sprites/meteor_large.png"
+"sprites/meteor_small.png" = "sprites/meteor_small.png"
+"sprites/meteor_squareDetailedLarge.png" = "sprites/meteor_square_detailed_large.png"
+"sprites/meteor_squareDetailedSmall.png" = "sprites/meteor_square_detailed_small.png"
+"sprites/meteor_squareLarge.png" = "sprites/meteor_square_large.png"
+"sprites/meteor_squareSmall.png" = "sprites/meteor_square_small.png"
+"sprites/satellite_A.png" = "sprites/satellite_A.png"
+"sprites/satellite_B.png" = "sprites/satellite_B.png"
+"sprites/satellite_C.png" = "sprites/satellite_C.png"
+"sprites/satellite_D.png" = "sprites/satellite_D.png"
+"sprites/ship_A.png" = "sprites/ship_A.png"
+"sprites/ship_B.png" = "sprites/ship_B.png"
+"sprites/ship_C.png" = "sprites/ship_C.png"
+"sprites/ship_D.png" = "sprites/ship_D.png"
+"sprites/ship_E.png" = "sprites/ship_E.png"
+"sprites/ship_F.png" = "sprites/ship_F.png"
+"sprites/ship_G.png" = "sprites/ship_G.png"
+"sprites/ship_H.png" = "sprites/ship_H.png"
+"sprites/ship_I.png" = "sprites/ship_I.png"
+"sprites/ship_J.png" = "sprites/ship_J.png"
+"sprites/ship_K.png" = "sprites/ship_K.png"
+"sprites/ship_L.png" = "sprites/ship_L.png"
+"sprites/ship_sidesA.png" = "sprites/ship_sidesA.png"
+"sprites/ship_sidesB.png" = "sprites/ship_sidesB.png"
+"sprites/ship_sidesC.png" = "sprites/ship_sidesC.png"
+"sprites/ship_sidesD.png" = "sprites/ship_sidesD.png"
+"sprites/star_large.png" = "sprites/star_large.png"
+"sprites/star_medium.png" = "sprites/star_medium.png"
+"sprites/star_small.png" = "sprites/star_small.png"
+"sprites/star_tiny.png" = "sprites/star_tiny.png"
+"sprites/station_A.png" = "sprites/station_A.png"
+"sprites/station_B.png" = "sprites/station_B.png"
+"sprites/station_C.png" = "sprites/station_C.png"
+
+[dragonruby]
+version = "2"
+edition = "standard"
