@@ -5,14 +5,6 @@ version = "0.1.0"
 homepage = "https://kenney.nl/assets/simple-space"
 keywords = ["assets", "2D", "space"]
 
-# Optional:
-# documentation = "https://example.com"
-# repository = "http://github.com/example/example"
-
-# Which files do you want to be automatically required from your package.
-# requires = ["lib/library.rb"]
-
-
 [package.installs]
 "sprites/effect_purple.png" = "sprites/effect_purple.png"
 "sprites/effect_yellow.png" = "sprites/effect_yellow.png"
